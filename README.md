@@ -1,2 +1,0 @@
-# NewReact
-Created with CodeSandbox
